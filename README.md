@@ -2,8 +2,6 @@
 
 Encrypt Python
 
-Buatan Dari : Ganz-XD
-
 - [ ] Fungsi Encrypt
 
 - [x] Python
