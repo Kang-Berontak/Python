@@ -2,7 +2,7 @@
 
 Encrypt Python
 
-Buatan Dari : <a href="https://github.com/Kang-Berontak">Ganz-XD
+Buatan Dari : Ganz-XD
 
 - [ ] Fungsi Encrypt
 
