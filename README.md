@@ -30,7 +30,7 @@ git clone https://github.com/Kang-Berontak/Python
 
 ```php
 cd Python
-python Anjay.py
+python Python.py
 ```
 
 # THANKS
